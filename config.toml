@@ -30,7 +30,7 @@ summarylength = 25
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/sab_canva.png"
   logo_footer = "images/logo-footer.png"
   favicon_icon = "images/favicon.ico"
   favicon_shortcut_icon = "images/favicon.png"
