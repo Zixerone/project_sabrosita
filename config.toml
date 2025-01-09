@@ -1,6 +1,6 @@
 baseURL       = "http://example.org/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "Sabrosita Milano "
 theme         = "roxo-hugo"
 summarylength = 25
 
@@ -12,19 +12,19 @@ summarylength = 25
     url     = ""
     weight  = 1
   [[menu.nav]]
-    name    = "About"
+    name    = "Chi siamo"
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Portfolio"
+    name    = "Workshop"
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
-    name    = "Blog"
+    name    = "Ricette"
     url     = "blog"
     weight  = 4
   [[menu.nav]]
-    name    = "Get in touch"
+    name    = "Contattaci"
     url     = "contact"
     weight  = 5
 
@@ -33,7 +33,7 @@ summarylength = 25
   logo = "images/sab_canva.png"
   logo_footer = "images/logo-footer.png"
   favicon_icon = "images/favicon.ico"
-  favicon_shortcut_icon = "images/favicon.png"
+  favicon_shortcut_icon = "images/icon_sab.jpg"
   custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
   dateFormat = "26 FEB 1994"
   # Meta data
@@ -85,7 +85,7 @@ summarylength = 25
     enable    = true
     title     = "I NOSTRI SERVIZI E WORKSHOP"
     subtitle  = "Anima la tua festa con attività di cucina e non solo!"
-    view_project = "view project"
+    view_project = "Dimmi di più"
     more_works = "MORE WORKS"
     scroll_down = "scorri in basso"
 
