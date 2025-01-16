@@ -11,7 +11,7 @@ fields:
 - type: text
   name: type
   label: type
-- type: file
+ type: file
   name: image
   label: image
 - type: list

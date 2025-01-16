@@ -1,14 +1,13 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "I nostri numeri"
 counter_item: 
-  - title: "Happy Clients"
-    number: "500"
+  - title: "Anni di esperienza"
+    number: "10"
 
-  - title: "Projects Completed"
+  - title: "Clienti soddisfatti"
     number: "100"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Cupcacke venduti"
+    number: "1000"
 
-  - title: "Telephone Talks"
-    number: "775"
+ 
